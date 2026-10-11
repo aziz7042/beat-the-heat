@@ -21,4 +21,4 @@ Open `project.godot` in Godot 4.6 or a compatible Godot 4 release, then run the 
 
 ## Credits and assets
 
-Verified creator, source URL, license and integration details for every audio file are documented in [`ASSET_CREDITS.md`](ASSET_CREDITS.md). The visual assets were created by the university project team. Third-party audio retains its original rights and is not covered by a blanket repository license.
+[`ASSET_CREDITS.md`](ASSET_CREDITS.md) lists the creator, source page, license and integration notes for each audio file. The university project team created the visual assets; the third-party audio remains under its original license.
